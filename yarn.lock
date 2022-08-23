@@ -26,10 +26,10 @@ commander@2:
   resolved "https://registry.yarnpkg.com/commander/-/commander-2.20.3.tgz#fd485e84c03eb4881c20722ba48035e8531aeb33"
   integrity sha512-GpVkmM8vF2vQUkj2LvZmD35JxeJOLCwJ9cUkugyk2nuhbv3+mJvpLYYt+0+USMxE+oj+ey/lJEnhZw75x/OMcQ==
 
-components-font-awesome@components/font-awesome#5.15.3:
-  version "5.15.1"
-  uid "09f1f2e02ea0cd319569b32f8639b37dfcd7a62d"
-  resolved "https://codeload.github.com/components/font-awesome/tar.gz/09f1f2e02ea0cd319569b32f8639b37dfcd7a62d"
+components-font-awesome@components/font-awesome#6.1.2:
+  version "6.1.2"
+  uid "2c8dd579722272a218d2cfb510d7ca2d239e48ad"
+  resolved "https://codeload.github.com/components/font-awesome/tar.gz/2c8dd579722272a218d2cfb510d7ca2d239e48ad"
 
 d3-array@1, d3-array@^1.2.0:
   version "1.2.4"
