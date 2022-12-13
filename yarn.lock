@@ -396,10 +396,10 @@ iconv-lite@0.4:
   dependencies:
     safer-buffer ">= 2.1.2 < 3"
 
-jquery@>=1.7, jquery@^3.4.1, jquery@^3.6.0:
-  version "3.6.0"
-  resolved "https://registry.yarnpkg.com/jquery/-/jquery-3.6.0.tgz#c72a09f15c1bdce142f49dbf1170bdf8adac2470"
-  integrity sha512-JVzAR/AjBvVt2BmYhxRCSYysDsPcssdmTFnzyLEts9qNwmjmu4JTAMYubEfwVOSwpQ1I1sKKFcxhZCI2buerfw==
+jquery@>=1.7, jquery@^3.4.1, jquery@^3.6.2:
+  version "3.6.2"
+  resolved "https://registry.yarnpkg.com/jquery/-/jquery-3.6.2.tgz#8302bbc9160646f507bdf59d136a478b312783c4"
+  integrity sha512-/e7ulNIEEYk1Z/l4X0vpxGt+B/dNsV8ghOPAWZaJs8pkGvsSC0tm33aMGylXcj/U7y4IcvwtMXPMyBFZn/gK9A==
 
 metrics-graphics@mozilla/metrics-graphics#2.15.x:
   version "2.15.6"
