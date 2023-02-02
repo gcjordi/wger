@@ -12,7 +12,7 @@
 ##########
 # Builder
 ##########
-FROM ubuntu:20.04 as builder
+FROM ubuntu:23.04 as builder
 
 RUN apt-get update \
   && apt-get install --no-install-recommends -y \
